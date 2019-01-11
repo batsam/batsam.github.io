@@ -22,8 +22,8 @@ var typed = new Typed('.Hi', {
 
   });
 
-var typed2 = new Typed('.Dickhead', {
-    strings: ["","Dickhead!","Asshole!"],
+var typed2 = new Typed('.Words', {
+    strings: ["","Beautiful!","Babe!"],
     typeSpeed: 120,
     startDelay: 1200,
     backSpeed: 20,
