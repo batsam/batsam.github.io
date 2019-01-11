@@ -15,7 +15,7 @@ var granimInstance = new Granim({
     }
 });
 var typed = new Typed('.Hi', {
-    strings: ["Hello!",],
+    strings: ["Hi! 👋"],
     typeSpeed: 120,
     showCursor: false,
 
