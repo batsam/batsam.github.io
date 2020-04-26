@@ -11,10 +11,23 @@
 
 .Words{
     color: #ffe4e4;
-    font-size: 1em;
 }
 .Words > a {
     color:#000;
-    font-size: 40px;
-    font-style: inherit;
+}
+@media only screen 
+    and (device-width : 375px) 
+    and (device-height : 812px) 
+    and (-webkit-device-pixel-ratio : 3) {
+        .Hi{
+            font-size:1.5em;
+        }
+        .Words{
+            color: #ffe4e4;
+        }
+        .Words > a {
+            color:#ffe4e4;
+            font-size:23px;
+        }
+        
 }
