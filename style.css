@@ -13,6 +13,7 @@
     color: #ffe4e4;
     font-size: 1em;
 }
-body > section > div > div > h1 > span.Words > a {
+.Words > a {
     color:#000;
+    font-size: 13px; !important
 }
