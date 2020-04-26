@@ -23,7 +23,7 @@ var typed = new Typed('.Hi', {
   });
 
 var typed2 = new Typed('.Words', {
-    strings: ['@iamyourdaddyloveyou' + '<a href="https://www.instagram.com/iamyourdaddyloveyou/">@iamyourdaddyloveyou</a>'],
+    strings: ['<a href="https://www.instagram.com/iamyourdaddyloveyou/">@iamyourdaddyloveyou</a>'],
     typeSpeed: 120,
     startDelay: 1200,
     backSpeed: 20,
